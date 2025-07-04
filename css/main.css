@@ -389,7 +389,6 @@ h1.giant-heading {
 .lead {
     font-size: 16px;
     font-weight:normal;
-    /* text-transform:uppercase; */
     margin-bottom:15px;
     color: #EEEEEE;
     position:relative;
